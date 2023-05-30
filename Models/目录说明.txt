@@ -1,0 +1,2 @@
+#This directory contains the pretraining model parameter .pt file
+#本目录存放预训练模型参数.pt文件

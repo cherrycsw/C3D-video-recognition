@@ -1,0 +1,21 @@
+#This directory stores the frames extracted from the video in raw_data
+#本目录存放raw_data中视频所抽取的帧图片
+
+Directory structure:
+目录结构：
+ucf101
+├── ApplyEyeMakeup
+│   ├── v_ApplyEyeMakeup_g01_c01
+│   │   ├── 00000.jpg
+│   │   └── ...
+│   └── ...
+├── ApplyLipstick
+│   ├── v_ApplyLipstick_g01_c01
+│   │   ├── 00001.jpg
+│   │   └── ...
+│   └── ...
+└── Archery
+│   ├── v_Archery_g01_c01
+│   │   ├── 00001.jpg
+│   │   └── ...
+│   └── ...
